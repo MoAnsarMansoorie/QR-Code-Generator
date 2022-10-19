@@ -4,7 +4,7 @@
 
 ![badge](https://img.shields.io/badge/Project%20FSJS-QR%20Code%20Generator-yellow)
 
-[Link of live project for view]()
+[Link of live project for view](https://qrcodegeneraterproject.netlify.app/)
 
 ![View page](./landingpage.png)
 
